@@ -1,0 +1,12 @@
+{
+  "PipelineID": 1,
+  "MaxPressurePSI": 150.00,
+  "MaxTempCelsius": 90.00,
+  "Readings": [
+    { "PressurePSI": 120.5, "TemperatureCelsius": 75.0, "FlowRateLPM": 310.0 },
+    { "PressurePSI": 135.0, "TemperatureCelsius": 82.0, "FlowRateLPM": 298.0 },
+    { "PressurePSI": 158.0, "TemperatureCelsius": 85.0, "FlowRateLPM": 280.0 },
+    { "PressurePSI": 142.0, "TemperatureCelsius": 95.0, "FlowRateLPM": 265.0 },
+    { "PressurePSI": 110.0, "TemperatureCelsius": 70.0, "FlowRateLPM": 320.0 }
+  ]
+}
